@@ -24,7 +24,7 @@ This project is designed to provide unit testing capabilities for PHP applicatio
    ```
 2. Navigate to the project directory:
    ```bash
-   cd /Users/dandy/Dandy/PHP Unit
+   cd PHP Unit
    ```
 3. Install dependencies using Composer:
    ```bash
